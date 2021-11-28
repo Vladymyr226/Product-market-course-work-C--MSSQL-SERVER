@@ -1,0 +1,9 @@
+Use ProductMarket
+
+GO
+
+CREATE TABLE [dbo].[Продажа](
+	[ID] [int] IDENTITY(0,1) NOT NULL,
+	[Дата_время] [datetime] NOT NULL,
+	[Сотрудник_ID] [int] NOT NULL FOREIGN KEY (Сотрудник_ID) REFERENCES Сотрудник (ID)
+	)

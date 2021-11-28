@@ -1,0 +1,12 @@
+Use ProductMarket
+
+GO
+
+CREATE TABLE [dbo].[Продажи_товаров](
+	[ID] [int] IDENTITY(0,1) NOT NULL,
+	[Продажа_ID] [int] NOT NULL FOREIGN KEY (Продажа_ID) REFERENCES Продажа (ID),
+	[Товар_ID] [int] NOT NULL FOREIGN KEY (Товар_ID) REFERENCES Товар (ID),
+	[Наименование] [nvarchar] (50) NOT NULL,
+	[Количество] [int] NOT NULL,
+	[Цена_продажи] [float] NOT NULL
+)

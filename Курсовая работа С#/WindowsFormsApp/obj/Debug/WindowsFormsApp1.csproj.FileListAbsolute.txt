@@ -1,0 +1,22 @@
+C:\Users\Home\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Товар.resources
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Товар.resources
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Чек.resources
+D:\Volodya\Колледж\Курсач 3 курс\Свириденко Владимир\Курсовая работа С#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Пуск.resources

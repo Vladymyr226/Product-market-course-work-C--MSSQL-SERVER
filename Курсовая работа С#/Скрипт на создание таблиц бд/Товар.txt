@@ -1,0 +1,14 @@
+Use ProductMarket
+
+GO
+
+CREATE TABLE [dbo].[Товар](
+	[ID] [int] IDENTITY(0,1) NOT NULL,
+	[Наименование] [nvarchar](30) NOT NULL,
+	[Цена] [float] NOT NULL,
+	[Вес] [float] NOT NULL,
+	[Ед_изм] [nvarchar](3) NOT NULL,
+	[Производитель] [nvarchar](30) NOT NULL,
+	[Описание] [nvarchar](100) NOT NULL,
+	[Срок_годности] [date] NOT NULL,
+	)

@@ -1,0 +1,13 @@
+Use ProductMarket
+GO
+
+CREATE TABLE [dbo].[Сотрудник](
+	[ID] [int] IDENTITY(0,1) NOT NULL,
+	[Фамилия] [nvarchar](30) NOT NULL,
+	[Имя] [nvarchar](30) NOT NULL,
+	[Отчество] [nvarchar](30) NOT NULL,
+	[Дата_рождения] [date] NOT NULL,
+	[Должность] [nvarchar](30) NOT NULL,
+	[Моб_номер] [int] NOT NULL,
+	[Заработная_плата] [float] NOT NULL
+	)
